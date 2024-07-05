@@ -1,5 +1,5 @@
 # Circles
-This program will ask user radius meassure and returns properties of the circle \
+This program will ask user radius meassure and returns properties of the circle 
 
 Input: Radius
 
