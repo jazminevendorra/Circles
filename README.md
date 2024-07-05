@@ -9,6 +9,6 @@ Processing:
 3. Calculate properties of circle
 
 Output:
-1.Diameter
+1. Diameter
 2. Circumference
 3. Area
